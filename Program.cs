@@ -3,7 +3,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World, World, World!");
-        Console.WriteLine("Hello the second line");
+        Console.WriteLine("fdghdfghhdfhld!");
+        Console.WriteLine("dfhfdghdfghdgfh");
+        Console.WriteLine("Hellfdhdfghne");
     }
 }
